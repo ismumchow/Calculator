@@ -1,0 +1,26 @@
+.zerobtn {
+    margin-left: 34px;
+}
+
+.equalbtn{
+    margin-left: 40px;;
+}
+
+#display {
+    width :95%; 
+    height: 60%;
+    margin-top:5%;
+}
+#result {
+    width: 95%;
+    height: 25%;
+    margin-top: 5%;
+}
+
+#calcContainer {
+    background-color:#7fdbff ;
+}
+#resultContainer {
+    background-color: #7fdbff;
+    color:black;
+}
